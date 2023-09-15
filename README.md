@@ -1,4 +1,5 @@
-# ejemplo-hugo
+# Web ejemplo con Hugo
+
 Ejemplo de web con Hugo para clase de DAW
 
 
