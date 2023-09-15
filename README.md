@@ -13,3 +13,5 @@ Run the server command with copied url
 ```bash
 hugo server -D --baseUrl "https://{githubUrl}" --appendPort=false
 ```
+
+Revisar https://hugo.md/post/editing-in-github-codespaces/
