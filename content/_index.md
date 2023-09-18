@@ -1,7 +1,7 @@
 ---
-title: "Test de static site con Hugo + Ananke"
+title: "Ejercicio DAW"
 
-description: "Test sitio estático"
+description: "Static sites -CPIFP Los Enlaces"
 
 featured_image: '/images/gato.jpg'
 ---
